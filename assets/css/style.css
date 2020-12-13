@@ -1,0 +1,150 @@
+body{
+	margin:0;
+	background-image:url("../images/point-of-sale-hero.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: Ubuntu; 
+    
+}
+.whole_sytem{
+	margin-top:34px;
+	
+	
+}
+.about_us{
+	padding-top:20%;
+	padding-right:5%;
+}
+.appsoliclab{
+	background-color:#ecf0f1;
+	opacity: 0.5;
+	margin-top:40%;
+	margin-bottom:5%;
+}
+
+.appsoliclab img{
+	padding-left: 16%;
+}
+.login{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	background-image:url("../images/girls-shopping-v2.jpg");
+	background-size:auto 100%;
+	background-repeat: no-repeat;
+	padding-top:35%;
+	padding-bottom: 6%;
+	padding-left:12%;
+    
+}
+
+.email{
+	
+	padding:8px;
+	border-bottom:2x solid black;
+	background-color:transparent;
+	margin-bottom:5px;
+	width:70%;
+	border:none;
+	border-bottom:2px solid #bdc3c7;
+	margin-bottom:10px;
+	text-align:center;
+	font-size:16px;
+	color:#ffffff;
+	outline: 0;
+
+}
+.password{
+	padding:8px;
+	border-bottom:2x solid black;
+	background-color:transparent;
+	margin-bottom:15px;
+	width:70%;
+	border:none;
+	border-bottom:2px solid #bdc3c7;
+	margin-bottom:21px;
+	text-align:center;
+	font-size:16px;
+	color:#ffffff;
+	outline: 0;
+
+}
+.submit{
+	padding:12px  18px;
+	border-radius:20px;
+	background-color:#e74c3c;
+	color:#ffffff;
+	Width:70%;
+	border:none;
+	text-align:center;
+	font-size:16px;
+	outline: 0;
+	transition: : .4s;
+}
+.submit:hover{
+	background-color:#2c3e50;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.forger-password {
+	padding-left:23%;
+	padding-top:8%;
+}
+.forger-password  a{
+	color:#ffffff;
+}
+.email:hover{
+	 color:#ffffff;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.password:hover{
+	color:#ffffff;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+@media only screen and (max-width: 500px) {
+   .login{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	background-image:url("assets/images/girls-shopping-v2.jpg");
+	background-size: auto;
+	/* background-size: auto 100%; */
+    background-repeat: no-repeat;
+    padding-top: 35%;
+    padding-bottom: 6%;
+	
+	/* padding-left:27%; */
+    
+}
+.forger-password {
+	padding-left:5%;
+	padding-top:8%;
+}
+}
+/************************Dashboard Design*******************************/
+
+.header-right p{
+	float:right;
+	overflow:hidden;
+}
+.option{
+	padding-bottom:5px;
+	margin-bottom: 1px;
+	background-color:#16a085;
+	border-right:1px solid #C6C6C6;
+}
+.option a{
+	color:#ffffff;
+}
+.option:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	background-color: #e74c3c/*#1abc9c*/;
+	opacity:0.7;
+}
+.panel-body{
+	
+	padding:1px 15px;
+}
+.fa-5-1x {
+    font-size: 4.5em;
+}
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1366px) { 
+
+}
