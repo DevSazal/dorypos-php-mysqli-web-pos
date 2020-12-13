@@ -3,3 +3,6 @@ I made this web pos by using only core PHP, MySQLi & JS for a client at 2017. It
 
 id=admin  
 password=admin
+
+
+https://dorypos.herokuapp.com  (Demo Link)
